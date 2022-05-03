@@ -1,5 +1,5 @@
 {
-  "Version": "1.2",
+  "Version": "1.3",
   "ReleaseNotes": "NUEVA VERSIÓN DISPONIBLE",
   "UrlUpdate": "https://raw.githubusercontent.com/otreblala/apkbeto/main/Servers",
   "Sms": "https://kiritosshxd.github.io/Conecta4g_site/UrlSms",
@@ -30,7 +30,7 @@
     {
       "Name": "TIGO Ssl+Pay",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d3130cy9mp7jta.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d3pvrgogxsksy5.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "[app_host]",
       "TlsIP": "13.227.125.218",
       "ProxyIP": "",
